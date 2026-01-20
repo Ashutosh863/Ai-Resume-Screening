@@ -1,0 +1,2 @@
+I am a Data Scientist with experience in Python, Machine Learning,
+NLP, FastAPI, and Docker. Knowledge of Scikit-learn and REST APIs required.
